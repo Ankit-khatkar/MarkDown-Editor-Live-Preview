@@ -1,0 +1,9 @@
+.preview-conatiner {
+  flex: 1; /* Each takes 50% width */
+  padding: 20px;
+  overflow-y: auto; /* Allows independent scrolling */
+  border: none;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: rgb(13, 104, 99);
+}

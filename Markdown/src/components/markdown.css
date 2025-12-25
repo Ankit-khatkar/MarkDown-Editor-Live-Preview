@@ -1,0 +1,12 @@
+.markdown-container {
+  background-color: #35436b;
+  resize: none; /* Removes drag handle */
+  outline: none;
+  font-family: "Courier New", monospace;
+  flex: 1; /* Each takes 50% width */
+  padding: 20px;
+  overflow-y: auto; /* Allows independent scrolling */
+  border: none;
+  font-size: 16px;
+  line-height: 1.5;
+}
