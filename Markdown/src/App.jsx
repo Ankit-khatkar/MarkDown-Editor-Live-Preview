@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <Header />
+
       <div className="main-window">
         <MarkDown />
       </div>

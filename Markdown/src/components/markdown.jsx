@@ -5,6 +5,7 @@ import Preview from "./preview";
 
 export default function MarkDown() {
   const initialMarkdown = `
+
 # Markdown syntax guide
 
 ## Headers
