@@ -139,6 +139,11 @@ Project Snapshots--
 
 ![snapshot](public/snapshot.png)
 ![snapshot](public/snapshot(2).png)
+![snapshot](public/snapshot(3).png)
+![snapshot](public/snapshot(4).png)
+![snapshot](public/snapshot(5).png)
+![snapshot](public/snapshot(6).png)
+
 
 📄 License
 
