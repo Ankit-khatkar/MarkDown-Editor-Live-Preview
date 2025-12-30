@@ -138,6 +138,12 @@ Feel free to fork the repo and submit a pull request.
 Project Snapshots--
 
 ![snapshot](public/snapshot.png)
+![snapshot](public/snapshot(2).png)
+![snapshot](public/snapshot.png)
+![snapshot](public/snapshot.png)
+![snapshot](public/snapshot.png)
+![snapshot](public/snapshot.png)
+
 📄 License
 
 This project is open-source and available under the MIT License.
