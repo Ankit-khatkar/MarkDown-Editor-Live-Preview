@@ -134,6 +134,17 @@ Debugging real-world UI and layout issues
 Contributions, suggestions, and improvements are welcome.
 Feel free to fork the repo and submit a pull request.
 
+
+Project Snapshots--
+
+![snapshot](public/snapshot.png)
+![snapshot](public/snapshot(2).png)
+![snapshot](public/snapshot(3).png)
+![snapshot](public/snapshot(4).png)
+![snapshot](public/snapshot(5).png)
+![snapshot](public/snapshot(6).png)
+
+
 📄 License
 
 This project is open-source and available under the MIT License.
