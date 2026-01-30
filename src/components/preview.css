@@ -1,4 +1,4 @@
-.preview-conatiner {
+.preview-container {
   flex: 1; /* Each takes 50% width */
   padding: 20px;
   overflow-y: auto; /* Allows independent scrolling */
